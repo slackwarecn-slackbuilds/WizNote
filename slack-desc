@@ -1,0 +1,23 @@
+# HOW TO EDIT THIS FILE:
+# The "handy ruler" below makes it easier to edit a package description.
+# Line up the first '|' above the ':' following the base package name, and
+# the '|' on the right side marks the last column you can put a character in.
+# You must make exactly 11 lines for the formatting to be correct.  It's also
+# customary to leave one space after the ':' except on otherwise blank lines.
+
+       |-----handy-ruler------------------------------------------------------|
+WizQTClient: WizQTClient (cross-platform cloud based note-taking client)
+WizQTClient:
+WizQTClient: WizNote is an open-sourced project, published under GPLv3 for 
+WizQTClient: individual/personal users and custom commercial license for 
+WizQTClient: company users.
+WizQTClient: 
+WizQTClient: This program is free software: you can redistribute it and/or 
+WizQTClient: modify it under the terms of the GNU General Public License as 
+WizQTClient: published by the Free Software Foundation, either version 3 of 
+WizQTClient: the License, or (at your option) any later version. This program 
+WizQTClient: is distributed in the hope that it will be useful, but WITHOUT 
+WizQTClient: ANY WARRANTY; 
+WizQTClient: without even the implied warranty of MERCHANTABILITY or FITNESS 
+WizQTClient: FOR A PARTICULAR PURPOSE. 
+WizQTClient: See the GNU General Public License for more details.
